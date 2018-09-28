@@ -161,6 +161,8 @@ get_header();
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0S0VqQmtfQkNZY2RkZ2NwZURKQk51UVdwam4w" target="_blank">Decision No. 12 - in Reference to the Appointment of the General Coordinator of the Secretariat for Environmental Matters</a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0TXNMSUxUbndjZFBmTy1TSXNvRW5ld2JTOVRn" target="_blank">Decision No. 13 - In Reference to the Appointment of the General Coordinator of the Secretariat for Environmental Matters</a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0ZDYtQ3hyVVUtdHpwMVVEMHBiZ3FfaUV3emhN" target="_blank">Decision No. 14 - In Reference to the Appointment of the Technical Assistant of the Secretariat for Environmental Matters</a></li>
+                        <br><li><a href="https://drive.google.com/open?id=1yGCSMZCEQyykgxpQKv8YXFm8yU7yd6cY" target="_blank">Decision No. 15 - In Reference to the Appointment of the General Coordinator of the Secretariat for Environmental Matters</a></li>
+                        <br><li><a href="https://drive.google.com/open?id=1x4wijcz8xFuoTMqMNc2TbbQf9NuXlFAk" target="_blank">Decision No. 16 - In Reference to the Appointment of the Technical Assistant of the Secretariat for Environmental Matters</a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0X1J2LURHNWdjWFZJZmJPRlItN0JRT0FCRGxZ" target="_blank">Decision No. 17 - In Reference to the working procedures and decision making process of de CAFTA-DR Environmental Affairs Council</a></li>
 
                     </ul>

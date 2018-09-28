@@ -157,6 +157,8 @@ get_header();
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0LWEzbE83b2dwdVdOd0J3bzVhTW5jZG85eTNz" target="_blank">Decisión No. 12 - En referencia al nombramiento del Coordinador General de la Secretaría de Asuntos Ambientales</a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0WUFpeTBwR0Fjd3hjRkgwaS1McmZGeEZkZElN" target="_blank">Decisión No. 13 - En referencia al nombramiento del Coordinador General de la Secretaría de Asuntos Ambientales </a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0eHF4TzE0WElPZm1tcGZnODhaZ3ViTWNVczBF" target="_blank">Decisión No. 14 - En referencia al nombramiento del Asistente Técnico de la Secretaría de Asuntos Ambientales</a></li>
+                        <br><li><a href="https://drive.google.com/open?id=1Z17_kXwon4yTdOO-TTwzbau3cfdhPHcs" target="_blank">Decisión No. 15 - En referencia al nombramiento del Coordinador General de la Secretaría de Asuntos Ambientales</a></li>
+                        <br><li><a href="https://drive.google.com/open?id=1x4wijcz8xFuoTMqMNc2TbbQf9NuXlFAk" target="_blank">Decisión No. 16 - En referencia al nombramiento del Asistente Técnico de la Secretaría de Asuntos Ambientales</a></li>
                         <br><li><a href="https://drive.google.com/open?id=0BwCiYMO6Kxd0VUJIU2hOanNTS3JXaFpWNW9IMGFlaVFhLVJZ" target="_blank">Decisión No. 17 - En referencia a los procedimientos de trabajo y el proceso de toma de decisiones del Consejo de Asuntos Ambientales  del DR-CAFTA</a></li>
 
                     </ul>
